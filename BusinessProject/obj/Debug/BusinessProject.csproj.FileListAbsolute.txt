@@ -1,0 +1,12 @@
+C:\Users\alexa\source\repos\Prueba\BusinessProject\bin\Debug\BusinessProject.dll
+C:\Users\alexa\source\repos\Prueba\BusinessProject\bin\Debug\BusinessProject.pdb
+C:\Users\alexa\source\repos\Prueba\BusinessProject\obj\Debug\BusinessProject.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\Prueba\BusinessProject\obj\Debug\BusinessProject.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\Prueba\BusinessProject\obj\Debug\BusinessProject.dll
+C:\Users\alexa\source\repos\Prueba\BusinessProject\obj\Debug\BusinessProject.pdb
+C:\Users\alexa\source\repos\Prueba\BusinessProject\bin\Debug\BusinessProject.dll.config
+C:\Users\alexa\source\repos\Prueba\BusinessProject\bin\Debug\EntityFramework.dll
+C:\Users\alexa\source\repos\Prueba\BusinessProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexa\source\repos\Prueba\BusinessProject\bin\Debug\EntityFramework.xml
+C:\Users\alexa\source\repos\Prueba\BusinessProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexa\source\repos\Prueba\BusinessProject\obj\Debug\BusinessProject.csproj.CopyComplete

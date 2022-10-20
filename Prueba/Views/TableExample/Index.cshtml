@@ -1,0 +1,10 @@
+﻿<!-- Modelo base de lo que vamos a mostrar en la pantalla-->
+@model List<BusinessProject.Models.TableExampleML>
+
+@{
+    //ViewBag.Title = "Table example";
+}
+<!-- Vista parcial-->
+<div id="TableExample">
+    @Html.Partial("TableExample", Model)
+</div>
